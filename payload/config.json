@@ -1,0 +1,17 @@
+{
+  "sdkVersion": "6.1.0",
+  "entryPoint": "entrypoint.py",
+  "dataspace": "default",
+  "permissions": {
+    "read": {
+      "dlo": [
+        "airline_large_50000csv__dll"
+      ]
+    },
+    "write": {
+      "dlo": [
+        "airline_large_50000_copy__dll"
+      ]
+    }
+  }
+}
